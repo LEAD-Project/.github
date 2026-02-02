@@ -1,7 +1,12 @@
 # LEAD
 
+[![Organization](https://img.shields.io/badge/Organization-NTUT_SDRC-blue)](https://sdrc.ntut.edu.tw/)
+[![Focus](https://img.shields.io/badge/Focus-AI4SE-green)]()
+[![Status](https://img.shields.io/badge/Status-Active-brightgreen)]()
+
 ### 關於我們
-本組織於成立於 **國立臺北科技大學 (NTUT)**，專注於 **人工智慧 (Artificial Intelligence)** 與 **自動化軟體工程 (Automated Software Engineering)** 的跨領域研究。
+**LEAD (LLM-driven Exploration for Automated Debugging)** 組織成立於 **國立臺北科技大學 軟體發展研究中心 (NTUT SDRC)**   
+本組織致力於 **人工智慧 (Artificial Intelligence)** 與 **自動化軟體工程 (Automated Software Engineering)** 的跨領域研究 (AI4SE)，專注於開發下一代自動化程式修復系統。
 
 本組織作為存放實驗數據、原始程式碼與研究成果的核心平台。
 
@@ -15,22 +20,32 @@
 本組織於 **2025年12月4日** 正式成立。
 
 #### 重要里程碑
-- **2025/12/4：** 團隊組建完成，制定初步研究提案。
-- [進行中]：系統開發階段。
+- **2025/2/2：** 專案執行計畫提交至**115年度大專學生研究計畫**
+- **2025/12/4：** 團隊組建完成，制定初步研究提案
+- [進行中]：系統開發階段
+
+---
+
+### 研究領域
+- Automated Program Repair (APR)
+- Fault Localization
+- Search-Based Software Engineering (SBSE)
 
 ---
 
 ### 研究團隊
 
-#### 目前成員
+#### 計畫主持人
+* **曾靖諺 (Ching-Yen Tseng)**
+   * Undergraduate Student, Department of Electrical Engineering and Computer Science, NTUT 
+   * Since： 2025/12/4
+   * GitHub: [@chingyen06](https://github.com/chingyen06)
 
-* **曾靖諺 (Ching-Yen Tseng)**： 計畫主持人
-    * Since： 2025/12/4
-    * GitHub: [@chingyen06](https://github.com/chingyen06)
-
-* **林稚蓁 (Chih-Chen Lin)**： 共同主持人
-    * Since： 2025/12/4 
-    * GitHub: [@iRaven7](https://github.com/iRaven7)
+#### 計畫成員
+* **林稚蓁 (Chih-Chen Lin)**
+   * Undergraduate Student, Department of Electrical Engineering and Computer Science, NTUT 
+   * Since： 2025/12/4 
+   * GitHub: [@iRaven7](https://github.com/iRaven7)
 
 <!--#### 往屆成員
 
