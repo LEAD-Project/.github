@@ -1,6 +1,6 @@
 # LEAD
 
-[![Organization](https://img.shields.io/badge/Organization-NTUT_SDRC-blue)](https://sdrc.ntut.edu.tw/)
+[![Affiliation](https://img.shields.io/badge/Affiliation-NTUT_ISLAB-blue)](https://academic.ntut.edu.tw/jykuo/)
 [![Focus](https://img.shields.io/badge/Focus-AI4SE-green)]()
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen)]()
 
