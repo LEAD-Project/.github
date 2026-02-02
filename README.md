@@ -6,11 +6,11 @@
 
 ### 關於我們
 **LEAD (LLM-driven Exploration for Automated Debugging)** 組織成立於 **國立臺北科技大學 軟體發展研究中心 (NTUT SDRC)**   
-本組織致力於 **人工智慧 (Artificial Intelligence)** 與 **自動化軟體工程 (Automated Software Engineering)** 的跨領域研究 (AI4SE)，專注於開發下一代自動化程式修復系統。
+本組織致力於 **人工智慧 (Artificial Intelligence)** 與 **自動化軟體工程 (Automated Software Engineering)** 的跨領域研究 (AI4SE)，專注於開發下一代自動化程式修復系統
 
-本組織作為存放實驗數據、原始程式碼與研究成果的核心平台。
+本組織作為存放實驗數據、原始程式碼與研究成果的核心平台
 
-> **注意：** 具體專案細節目前處於開發階段並暫時保密。公開的 Repository 將在專案完成後釋出。
+> **注意：** 具體專案細節目前處於開發階段並暫時保密。公開的 Repository 將在專案完成後釋出
 
 ---
 
