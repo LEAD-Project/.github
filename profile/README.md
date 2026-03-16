@@ -32,11 +32,7 @@
 
 ---
 
-### 研究團隊
-
-#### 指導教授
-* **郭忠義 (Jong-Yih Kuo)**
-   * Professor, Computer Science and Information Engineering, NTUT 
+### 研究團隊 
 
 #### 計畫成員
 * **曾靖諺 (Ching-Yen Tseng)**
