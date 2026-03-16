@@ -34,13 +34,16 @@
 
 ### 研究團隊
 
-#### 計畫主持人
+#### 指導教授
+* **郭忠義 (Jong-Yih Kuo)**
+   * Professor, Computer Science and Information Engineering, NTUT 
+
+#### 計畫成員
 * **曾靖諺 (Ching-Yen Tseng)**
    * Undergraduate Student, Department of Electrical Engineering and Computer Science, NTUT 
    * Since： 2025/12/4
    * GitHub: [@chingyen06](https://github.com/chingyen06)
 
-#### 計畫成員
 * **林稚蓁 (Chih-Chen Lin)**
    * Undergraduate Student, Department of Electrical Engineering and Computer Science, NTUT 
    * Since： 2025/12/4 
