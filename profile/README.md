@@ -45,6 +45,11 @@
    * Since： 2025/12/4 
    * GitHub: [@iRaven7](https://github.com/iRaven7)
 
+* **李宸賢 (Chen-Hsien, Li)**
+   * Undergraduate Student, Department of Electrical Engineering and Computer Science, NTUT 
+   * Since： 2026/06/06  
+   * GitHub: [@](https://github.com/)
+
 <!--#### 往屆成員
 
 * 暫無-->
