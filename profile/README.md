@@ -48,7 +48,7 @@
 * **李宸賢 (Chen-Hsien, Li)**
    * Undergraduate Student, Department of Electrical Engineering and Computer Science, NTUT 
    * Since： 2026/06/06  
-   * GitHub: [@](https://github.com/)
+   * GitHub: [@existtrue](https://github.com/existtrue)
 
 <!--#### 往屆成員
 
