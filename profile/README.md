@@ -21,6 +21,7 @@
 #### 重要里程碑
 - **2025/12/4：** 團隊組建完成，制定初步研究提案
 - **2025/2/2：** 專案執行計畫提交至**115年度大專學生研究計畫**
+- **2025/6/26：** **115年度大專學生研究計畫** 通過
 - [進行中]：系統開發階段
 
 ---
@@ -47,7 +48,7 @@
 
 * **李宸賢 (Chen-Hsien Li)**
    * Undergraduate Student, Department of Electrical Engineering and Computer Science, NTUT 
-   * Since： 2026/06/06  
+   * Since： 2026/6/6  
    * GitHub: [@existtrue](https://github.com/existtrue)
 
 <!--#### 往屆成員
